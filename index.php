@@ -15,86 +15,48 @@
 	<!-- Main Slider -->
 	<?php include('includes/inc.web.mainSlider.php'); ?>
 
-	<div class="txC">
-			<p>
-				<br>
-				La informaci&oacute;n aqu&iacute; expuesta es de muestra para presentar de manera clara el dise&ntilde;o del sitio.<br>
-				Luego ser&aacute; sustitu&iacute;da por el contenido t&eacute;cnico proporcionado por el cliente.
-			</p>
-	</div>
 
-	<!-- <div id="fh5co-features" data-section="features">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12 section-heading text-center">
-					<h2 class="single-animate animate-features-1">Features</h2>
-					<div class="row">
-						<div class="col-md-8 col-md-offset-2 single-animate animate-features-2">
-							<h3>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</h3>
-						</div>
+	<div class="row pad20" id="team">
+		<div class="col-md-12 section-heading text-center to-animate">
+			<h2>ORTOPEDIA MAXILOFACIAL</h2>
+			<p>
+				Se encarga de corregir alteraciones en la relación de los maxilares o posición de los dientes que fueron detectadas por
+				Odontopediatra, o por los padres. Por medio del uso aparatología removible, y aprovechando el crecimiento y desarrollo
+				como medio para producir movimiento y re-dirigir el crecimiento del hueso.<br>
+				En pocas palabras es una alternativa de PREVENCION y CORRECCION de los problemas de crecimiento de la boca.
+			</p>
+		</div>
+
+
+		<div class="col-md-12 pad20">
+			<div class="row row-bottom-padded-lg">
+				<div class="col-md-6 text-center to-animate">
+					<div class="person">
+						<img src="img/8.png" class="img-responsive img-rounded" alt="Person">
+						<p>
+							La ortopedia nos ayuda a corregir la función
+							para restablecer la forma. Produce movimientos
+							dentarios mediante el estímulo de transformación
+							de los tejidos.
+						</p>
 					</div>
 				</div>
-			</div>
-			<div class="row row-bottom-padded-sm">
-				<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
-					<div class="fh5co-icon"><i class="fa fa-bug"></i></div>
-					<div class="fh5co-desc">
-						<h3>100% Free</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+				<div class="col-md-6 text-center to-animate">
+					<div class="person">
+						<img src="img/7.png" class="img-responsive img-rounded" alt="Person">
+						<p>
+							Actúan sobre dientes, labios, lengua, encías,
+							paladar, piso de la boca, articulación temporomandibular.
+							Modicación de las funciones
+							como la masticación, deglución, respiración y
+							fonación de la boca.
+						</p>
 					</div>
-				</div>
-				<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
-					<div class="fh5co-icon"><i class="icon-eye"></i></div>
-					<div class="fh5co-desc">
-						<h3>Retina Ready</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-					</div>
-				</div>
-				<div class="clearfix visible-sm-block visible-xs-block"></div>
-				<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
-					<div class="fh5co-icon"><i class="icon-crop"></i></div>
-					<div class="fh5co-desc">
-						<h3>Fully Responsive</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
-					<div class="fh5co-icon"><i class="icon-speedometer"></i></div>
-					<div class="fh5co-desc">
-						<h3>Lightweight</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-					</div>
-				</div>
-				<div class="clearfix visible-sm-block visible-xs-block"></div>
-				<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
-					<div class="fh5co-icon"><i class="icon-heart"></i></div>
-					<div class="fh5co-desc">
-						<h3>Made with Love</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
-					<div class="fh5co-icon"><i class="icon-umbrella"></i></div>
-					<div class="fh5co-desc">
-						<h3>Eco Friendly</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-					</div>
-				</div>
-				<div class="clearfix visible-sm-block visible-xs-block"></div>
-			</div>
-			<div class="row">
-				<div class="col-md-4 col-md-offset-4 single-animate animate-features-3">
-					<a href="#" class="btn btn-primary btn-block">Learn More</a>
 				</div>
 			</div>
 		</div>
-	</div> -->
-
-
-
-
-
-	<!-- <div id="fh5co-press" data-section="press">
+	</div>
+	<div id="fh5co-press" data-section="press">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 section-heading text-center">
@@ -108,7 +70,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-6">
-
+					<!-- Press Item -->
 					<div class="fh5co-press-item to-animate">
 						<div class="fh5co-press-img" style="background-image: url(images/img_7.jpg)">
 						</div>
@@ -118,48 +80,13 @@
 							<p><a href="#" class="btn btn-primary btn-sm">Learn more</a></p>
 						</div>
 					</div>
-
+					<!-- Press Item -->
 				</div>
-
-				<div class="col-md-6">
-					<div class="fh5co-press-item to-animate">
-						<div class="fh5co-press-img" style="background-image: url(images/img_8.jpg)">
-						</div>
-						<div class="fh5co-press-text">
-							<h3 class="h2 fh5co-press-title">Versatile <span class="fh5co-border"></span></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis eius quos similique suscipit dolorem cumque vitae qui molestias illo accusantium...</p>
-							<p><a href="#" class="btn btn-primary btn-sm">Learn more</a></p>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-md-6">
-					<div class="fh5co-press-item to-animate">
-						<div class="fh5co-press-img" style="background-image: url(images/img_9.jpg);">
-						</div>
-						<div class="fh5co-press-text">
-							<h3 class="h2 fh5co-press-title">Aesthetic <span class="fh5co-border"></span></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis eius quos similique suscipit dolorem cumque vitae qui molestias illo accusantium...</p>
-							<p><a href="#" class="btn btn-primary btn-sm">Learn more</a></p>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-md-6">
-					<div class="fh5co-press-item to-animate">
-						<div class="fh5co-press-img" style="background-image: url(images/img_10.jpg);">
-						</div>
-						<div class="fh5co-press-text">
-							<h3 class="h2 fh5co-press-title">Creative <span class="fh5co-border"></span></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis eius quos similique suscipit dolorem cumque vitae qui molestias illo accusantium...</p>
-							<p><a href="#" class="btn btn-primary btn-sm">Learn more</a></p>
-						</div>
-					</div>
-				</div>
-
 			</div>
 		</div>
-	</div> -->
+	</div>
+
+
 
 
 	<?php include ('includes/inc.web.footer.php'); ?>
