@@ -1,5 +1,4 @@
-<?php include ('config.php');
-?>
+<?php include ('config.php'); ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -14,81 +13,127 @@
 	</header>
 	<!-- Main Slider -->
 	<?php include('includes/inc.web.mainSlider.php'); ?>
-
-
-	<div class="row pad20" id="team">
-		<div class="col-md-12 section-heading text-center to-animate">
-			<h2>ORTOPEDIA MAXILOFACIAL</h2>
-			<p>
-				Se encarga de corregir alteraciones en la relación de los maxilares o posición de los dientes que fueron detectadas por
-				Odontopediatra, o por los padres. Por medio del uso aparatología removible, y aprovechando el crecimiento y desarrollo
-				como medio para producir movimiento y re-dirigir el crecimiento del hueso.<br>
-				En pocas palabras es una alternativa de PREVENCION y CORRECCION de los problemas de crecimiento de la boca.
-			</p>
-		</div>
-
-
-		<div class="col-md-12 pad20">
-			<div class="row row-bottom-padded-lg">
-				<div class="col-md-6 text-center to-animate">
-					<div class="person">
-						<img src="img/8.png" class="img-responsive img-rounded" alt="Person">
-						<p>
-							La ortopedia nos ayuda a corregir la función
-							para restablecer la forma. Produce movimientos
-							dentarios mediante el estímulo de transformación
-							de los tejidos.
-						</p>
-					</div>
-				</div>
-				<div class="col-md-6 text-center to-animate">
-					<div class="person">
-						<img src="img/7.png" class="img-responsive img-rounded" alt="Person">
-						<p>
-							Actúan sobre dientes, labios, lengua, encías,
-							paladar, piso de la boca, articulación temporomandibular.
-							Modicación de las funciones
-							como la masticación, deglución, respiración y
-							fonación de la boca.
-						</p>
-					</div>
+	<section class="wow animated fadeInUp">
+		<div class="row">
+			<div class="container homeItems">
+				<div class="col-md-12 homeItemsTitle">
+					<h1>NUESTRO OBJETIVO</h1>
+					<h3>es asegurar una hermosa sonrisa en tu rostro</h3>
+					<hr>
+					<p>
+						Contamos con un personal amable y capacitado, as&iacute; como con instalaciones modernas
+						y un excelente servicio al cliente.<br>
+						Utilizamos la tecnolog&iacute;a m&aacute;s avanzada para su completa seguridad as&iacute; puede tener la
+						tranquilidad de recibir la mejor opci&oacute;n en tratamiento de acuerdo a sus necesidades, todo en la comodidad de un mismo lugar.
+					</p>
 				</div>
 			</div>
 		</div>
-	</div>
-	<div id="fh5co-press" data-section="press">
 		<div class="container">
-			<div class="row">
-				<div class="col-md-12 section-heading text-center">
-					<h2 class="single-animate animate-press-1">Press Releases</h2>
-					<div class="row">
-						<div class="col-md-8 col-md-offset-2 subtext single-animate animate-press-2">
-							<h3>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</h3>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-6">
-					<!-- Press Item -->
-					<div class="fh5co-press-item to-animate">
-						<div class="fh5co-press-img" style="background-image: url(images/img_7.jpg)">
-						</div>
-						<div class="fh5co-press-text">
-							<h3 class="h2 fh5co-press-title">Simplicity <span class="fh5co-border"></span></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis eius quos similique suscipit dolorem cumque vitae qui molestias illo accusantium...</p>
-							<p><a href="#" class="btn btn-primary btn-sm">Learn more</a></p>
-						</div>
-					</div>
-					<!-- Press Item -->
+			<div class="row flexW">
+				<div class="catalogueHome">
+					<!-- Item1 -->
+					<div class="col-md-6 col-sm-6 col-xs-12 catalogueItem">
+	          <div class="hovereffect">
+	            <img class="img-responsive" src="img/homeitem1.jpg" alt="">
+	            <div class="overlay">
+								<a href="invisalign.php">
+	              <h2>TRATAMIENTO INVISALIGN</h2><br>
+	              <p>
+									Invisalign endereza los dientes mediante aligners pr&aacute;cticamente invisibles y
+	 								extra&iacute;bles que se fabrican a la medida de sus dientes para garantizarle una mayor comodidad.
+								</p><br>
+	              </a>
+	            </div>
+	          </div>
+	        </div>
+					<!-- Item1 -->
+					<!-- Item2 -->
+					<div class="col-md-6 col-sm-6 col-xs-12 catalogueItem">
+	          <div class="hovereffect">
+	            <img class="img-responsive" src="img/homeitem2.jpg" alt="">
+	            <div class="overlay">
+								<a href="ortopedia.php">
+	              <h2>ORTOPEDIA MAXILOFACIAL</h2><br>
+	              <p>
+									Se encarga de corregir alteraciones en la relaci&oacute;n de los maxilares o posici&oacute;n de los
+									dientes que fueron detectadas por Odontopediatra, o por los padres.
+								</p><br>
+								</a>
+	            </div>
+	          </div>
+	        </div>
+					<!-- Item2 -->
+					<!-- Item3 -->
+					<div class="col-md-6 col-sm-6 col-xs-12 catalogueItem">
+	          <div class="hovereffect">
+	            <img class="img-responsive" src="img/homeitem3.jpg" alt="">
+	            <div class="overlay">
+								<a href="damon.php">
+	              <h2>TRATAMIENTO DAMON</h2><br>
+	              <p>
+									Damon se combinan tres componentes clave, que cuando se usan juntos,
+									ofrecer un tratamiento m&aacute;s r&aacute;pido, menos citas, mayor comodidad y resultados de alta calidad
+								</p><br>
+								</a>
+	            </div>
+	          </div>
+	        </div>
+					<!-- Item3 -->
+					<!-- Item4 -->
+					<div class="col-md-6 col-sm-6 col-xs-12 catalogueItem">
+	          <div class="hovereffect">
+	            <img class="img-responsive" src="img/homeitem4.jpg" alt="">
+	            <div class="overlay">
+								<a href="ortodoncia.php">
+	              <h2>ORTODONCIA</h2><br>
+	              <p>
+									Colocar los dientes bien alineados y posicionados sobre sus bases &oacute;seas y una buena
+									relaci&oacute;n entre las dos arcadas dentarias.
+								</p><br>
+							</a>
+	            </div>
+	          </div>
+	        </div>
+					<!-- Item4 -->
+					<!-- Item5 -->
+					<div class="col-md-6 col-sm-6 col-xs-12 catalogueItem">
+	          <div class="hovereffect">
+	            <img class="img-responsive" src="img/homeitem5.jpg" alt="">
+	            <div class="overlay">
+								<a href="ondontologia_pediatrica.php">
+	              <h2>ODONTOPEDIATR&Iacute;A</h2><br>
+	              <p>
+									El odontopediatra tiene un entrenamiento especial para tratar diferentes
+									comportamientos de los ni&natilde;os durante
+									sus visitas al dentista.
+								</p><br>
+								</a>
+	            </div>
+	          </div>
+	        </div>
+					<!-- Item5 -->
+					<!-- Item6 -->
+					<div class="col-md-6 col-sm-6 col-xs-12 catalogueItem">
+	          <div class="hovereffect">
+	            <img class="img-responsive" src="img/homeitem6.jpg" alt="">
+	            <div class="overlay">
+								<a href="doctora.php">
+	              <h2>PROFESIONALES</h2><br>
+	              <p>
+									Es la especialidad que corrige la  malposici&oacute;n dentaria para establecer una funci&oacute;n
+									correcta y proporcionar una buena est&eacute;tica.
+								</p><br>
+								</a>
+	            </div>
+	          </div>
+	        </div>
+					<!-- Item6 -->
 				</div>
 			</div>
 		</div>
-	</div>
-
-
-
-
+	</section>
+	<?php include ('includes/inc.web.contacto.php'); ?>
 	<?php include ('includes/inc.web.footer.php'); ?>
   <?php include ('includes/inc.web.scripts.php'); ?>
 	</body>
